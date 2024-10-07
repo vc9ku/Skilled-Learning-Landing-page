@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav img {
+    width: 111px;
+    height: 28px;
+}
+
+.nav button {
+    border-radius: 32px;
+    width: 168px;
+    height: 59px;
+    font-weight: 700;
+    background-color: #13183F;
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.container {
+    width: 1120px;
+    height: 560px;
+}
+
+.container h1 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 800;
+    width: 457px;
+    height: 135px;
+}
+
+.container {
+    margin-top: 174px;
+}
+
+.content {
+    width: 544px;
+    height: 339px;
+    margin-left: 160px;
+}
+
+
+.content button {
+    border-radius: 32px;
+    width: 168px;
+    height: 59px;
+    font-weight: 700;
+    background: linear-gradient(#FF6F48, #F02AA6);
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    border: none;
+    margin-top: 16px;
+}
+
+.content h1 {
+    font-size: 56px;
+}
+
+.content p {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    width: 457px;
+    font-size: 20px;
+    color: #83869A;
+}
+
+.illustration {
+    
+}
+
